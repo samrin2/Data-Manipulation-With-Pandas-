@@ -25,8 +25,7 @@ This project involves using the Pandas library to manipulate data. The tasks per
 ## How to Use
 
 1. Clone the repository:
-    ```sh
-https://github.com/samrin2/Data-Manipulation-With-Pandas-.git
+    ```https://github.com/samrin2/Data-Manipulation-With-Pandas-.git
     ```
 2. Navigate to the project directory:
     ```sh
